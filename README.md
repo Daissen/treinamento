@@ -19,4 +19,8 @@ C. Ambiente de Programação
   * C3 - Github
   * C4 - Docker
 
+D. Documentação
+  * D1 - Markdown
+  * D2 - Github Projects
+
 ## Sugestão de Fluxo
