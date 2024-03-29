@@ -1,41 +1,45 @@
 # Treinamento
 Repositório para treinamento de novos voluntários
 
-## Competências
-A. Backend
-  * A1 - [Instalação do Backend](instalacao_do_backend.md)
-  * A2 - [NodeJS](nodejs.md)
-  * A3 - Express
+## Formações
 
-B. Frontend
-  * B1 - Instalação do Frontend
-  * B2 - Javascript no Navegador
-  * B3 - React
-  * B4 - React Native
+CC. Conhecimento Comum
+  * Intro: [Introdução](introducao.md)
+  * Markdown: [Sintaxe de Documentação](markdown.md)
+  * VS Code - [Ambiente de Programação](vscode.md)
+  * Git - [Versionamento de Código](git.md)
+  * Github - Github
+  * Docker - Docker
 
-C. Ambiente de Programação
-  * C1 - [VS Code](vscode.md)
-  * C2 - [Git](git.md)
-  * C3 - Github
-  * C4 - Docker
+DB. Desenvolvedor Backend (DB)
+  * IntroBack - [IntroBack: Instalação do Backend](instalacao_do_backend.md)
+  * NodeJS - [Programação Javascript em NodeJS](nodejs.md)
+  * Express - [Framework Express](express.md)
 
-D. Gerência de Projetos
-  * D1 - Markdown
-  * D2 - Github Projects
+DF. Desenvolvedor Frontend (DF)
+  * IntroFront - Instalação do Frontend
+  * IntroJSWeb - Javascript no Navegador
+  * React - React
+  * ReactNative - React Native
+ 
+GP. Gerência de Projetos
+  * GithubProjects - Github Projects
 
-## Sugestão de Fluxo
+## Sugestão de Fluxo com Estimativa de Horas
+
 ```mermaid
 flowchart LR
-  A1 --> C1
-  C1 --> C2
-  C1 --> C3
-  C1 --> C4
-  A1 --> D1
-  A1 --> A2
-  A2 --> B1
-  A2 --> B2
-  B2 --> B3
-  B3 --> B4
-  D1 --> D2
-  A2 --> A3
+  Intro("Intro (1h)") --  "DB + DF"  --> IntroBack
+  Intro -- "DB + DF + GP" --> Markdown
+  IntroBack("IntroBack (2h) - ") -- "DB + DF + GP" --> VSCode 
+  VSCode("VSCode (2h)") -- "DB + DF" --> Git("Git (2h)")
+  VSCode -- "DB + DF + GP" --> Github("Github (2h)")
+  VSCode -- "DB + DF" --> Docker("Docker (2h)")
+  IntroBack -- "DB + DF" --> NodeJS
+  NodeJS("NodeJS (20h)") -- "DB + DF" --> IntroFront("IntroFront (2h)")
+  NodeJS -- "DF" --> IntroJSWeb
+  IntroJSWeb("IntroJSWeb (10h)") -- "DF" --> React
+  React("React (20h)") -- "DF" --> ReactNative("ReactNative (30h)")
+  Markdown("Markdown (2h)") -- "GP" --> GithubProjects("GithubProjects (2h)")
+  NodeJS -- "DB" --> Express("Express (10h)")
 ```
