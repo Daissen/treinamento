@@ -24,3 +24,10 @@ D. Documentação
   * D2 - Github Projects
 
 ## Sugestão de Fluxo
+
+```plantuml
+@startuml
+Alice -> Bob: Authentication Request
+Bob --> Alice: Authentication Response
+@enduml
+```
