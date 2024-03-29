@@ -1,3 +1,12 @@
 @startuml
-Bob -> Alice : hello
+start
+:A1-Instalação do Backend
+:B1-Instalação do Frontend
+:C1-VS Code
+fork
+:A2-NodeJS
+:B2-Javascript no Navegador
+:C2-Git
+end fork
+end
 @enduml
