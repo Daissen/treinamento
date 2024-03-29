@@ -2,14 +2,14 @@
 
 Seja bem vindo ao treinamento de novos voluntários para o projeto de desenvolvimento de software da Comunidade [Zen-Budista Daissen](https://daissen.org.br/).
 
-## Formações
+## Formações 🚧
 
 A Equipe de voluntários elaborou uma formação para desenvolvedores de software que desejam colaborar com o projeto. A formação é dividida em três áreas de conhecimento: Desenvolvedor Backend, Desenvolvedor Frontend e Gerência de Projetos.
 
 ### Conhecimento Comum
   * [Intro: Informações Gerais](introducao.md)
-  * [Markdown: Sintaxe de Documentação](markdown.md) :constuction:
-  * [VS Code: Ambiente de Programação](vscode.md) :constuction:
+  * [Markdown: Sintaxe de Documentação](markdown.md) 🚧
+  * [VS Code: Ambiente de Programação](vscode.md) 🚧
   * [Git: Versionamento de Código](git.md) :constuction:
   * [Github: Ambiente de Colaboração](github.md) :constuction:
   * [Docker: Distribuição de Software](docker.md) :constuction:
