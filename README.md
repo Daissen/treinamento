@@ -24,6 +24,15 @@ D. Documentação
   * D2 - Github Projects
 
 ## Sugestão de Fluxo
+```mermaid
+flowchart TB
+    A1 --> B1
+    A1 --> C1
+    A1 --> D1
+```
 
+
+<!--
 ![Test](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Daissen/treinamento/main/test.iuml)
 <br/>[(Editar o diagrama)](test.iuml)
+-->
