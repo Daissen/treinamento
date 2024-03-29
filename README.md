@@ -19,20 +19,23 @@ C. Ambiente de Programação
   * C3 - Github
   * C4 - Docker
 
-D. Documentação
+D. Gerência de Projetos
   * D1 - Markdown
   * D2 - Github Projects
 
 ## Sugestão de Fluxo
 ```mermaid
-flowchart TB
-    A1 --> B1
-    A1 --> C1
-    A1 --> D1
+flowchart LR
+  A1 --> C1
+  C1 --> C2
+  C1 --> C3
+  C1 --> C4
+  A1 --> D1
+  A1 --> A2
+  A2 --> B1
+  A2 --> B2
+  B2 --> B3
+  B3 --> B4
+  D1 --> D2
+  A2 --> A3
 ```
-
-
-<!--
-![Test](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Daissen/treinamento/main/test.iuml)
-<br/>[(Editar o diagrama)](test.iuml)
--->
