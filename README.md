@@ -25,5 +25,5 @@ D. Documentação
 
 ## Sugestão de Fluxo
 
-![Test](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Daissen/treinamento/main/test.iuml?token=GHSAT0AAAAAACOVYZJA7D5YCLSABRI3CZGAZQGYADA)
+![Test](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/Daissen/treinamento/main/test.iuml)
 <br/>[(Editar o diagrama)](test.iuml)
