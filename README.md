@@ -20,7 +20,7 @@ A Equipe de voluntários elaborou uma formação para desenvolvedores de softwar
   * [Express: Framework para Aplicações Backend](express.md) 🚧
 
 ### Desenvolvedor Frontend
-  * [IntroFront: Instalação do Frontend](intro_frontend.md) 🚧
+  * [IntroFront: Instalação do Frontend](intro_frontend.md)
   * [IntroJSWeb: Javascript no Navegador](intro_js_web.md) 🚧
   * [React: Framework para Interface Web](react.md) 🚧
   * [ReactNative: Framework para Interface Móvel](react_native.md)
