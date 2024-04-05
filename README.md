@@ -46,3 +46,7 @@ flowchart LR
   Markdown("Markdown (2h)") -- "GP" --> GithubProjects("GithubProjects (2h)")
   NodeJS -- "DB" --> Express("Express (10h)")
 ```
+
+## Desenvolvedores em Formação
+* [gabriels404](gabriels404/README.md) - desde 21/03/24
+* [guinaka](guinaka/README.md) - desde 04/04/24
