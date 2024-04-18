@@ -10,7 +10,7 @@ A Equipe de voluntários elaborou uma formação para desenvolvedores de softwar
   * [Intro: Informações Gerais](introducao.md)
   * [Markdown: Sintaxe de Documentação](markdown.md) 🚧
   * [VS Code: Ambiente de Programação](vscode.md) 🚧
-  * [Git: Versionamento de Código](git.md) 🚧
+  * [Git: Versionamento de Código](git/README.md)
   * [Github: Ambiente de Colaboração](github.md) 🚧
   * [Docker: Distribuição de Software](docker.md) 🚧
 
