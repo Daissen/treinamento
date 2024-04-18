@@ -3,7 +3,7 @@
 ## Módulo de formação no git
 
 
-### Leituras Recomendados
+### Leituras Recomendadas
 * [Tutorial Git](tutorial_git.md)
 
 
