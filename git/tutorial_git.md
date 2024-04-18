@@ -215,13 +215,139 @@ ou:
 dir teste
 ```
 
-Neste tutorial, por questão de foco, **não** irei explicar como criar um repositório local a partir do comando 'git init'. Para saber mais leia: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
+Neste tutorial, por questão de foco, **não** iremos explicar como criar um repositório local a partir do comando 'git init'. Para saber mais leia: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
 
 ## Como alterar e confirmar alterações locais
 
 * Uma vez que você tenha uma cópia de um repositório remoto, você pode realizar alterações locais, tais como: alterar, criar ou deletar um arquivo. Por exemplo, veja o vídeo abaixo:
 
 [![asciicast](https://asciinema.org/a/BAmXek1u6ahmiRUUpCgjBF8r1.svg)](https://asciinema.org/a/BAmXek1u6ahmiRUUpCgjBF8r1)
+
+No vídeo acima, foi explicado como:
+* Clonar um repositório remoto do Github, chamado *teste*:
+```bash
+git clone http://github.com/seulogin/teste
+```
+* Entrar no diretório *teste*:
+```bash
+cd teste
+```
+* Modificar o arquivo *README.md*:
+```bash
+nano README.md
+```
+* Adicionar um texto qualquer, salvar e sair do editor de texto
+* Verificar o estado do repositório:
+```bash
+git status
+```
+* Adicionar o arquivo modificado ao repositório:
+```bash
+git add README.md
+```
+* Confirmar a alteração:
+```bash
+git commit -m "Adicionado texto ao README.md"
+```
+* Verificar o estado do repositório:
+```bash
+git status
+```
+* Enviar a alteração para o repositório remoto:
+```bash
+git push
+```
+* Verificar o estado do repositório:
+```bash
+git status
+```
+
+## Conceitos sobre git branch (ramo)
+* O git organiza o fluxo de alterações de código por meio de ramos (branches). Isso é desejável, pois isso permite que um desenvolvedor de uma equipe isole e teste suas modificações em um ramo próprio.
+* O fluxo de código principal é chamado de master e dele podem ser derivados outros ramos. Cada ramo pode conter suas próprias modificações, ou seja, seus próprios *commits*. Veja figura:
+
+![fluxo](figs/fluxo.png)
+Fonte: Matt Liu, disponível em: https://pt.slideshare.net/MatthewKLiu/git-branch-management
+
+* O isolamento de alterações por ramos permite que funcionalidades (features) sejam desenvolvidas separadamente, sem afetar o funcionamento de outros ramos. Dessa forma, quando um desenvolvedor conclui uma funcionalidade, ele pode incorporar as mudanças para o ramo *master* através de uma operação chamada *merge* (mesclar)
+
+## Como criar e enviar um ramo (branch)
+
+No vídeo a seguir, é criado um ramo *perfil*, que vai conter a modificação do arquivo README.md. O ramo *perfil* é em seguida enviado para o repositório remoto por meio do comando 'git push'.
+
+[![asciicast](https://asciinema.org/a/654913.svg)](https://asciinema.org/a/654913)
+
+No vídeo acima, foi explicado como:
+* Clonar um repositório remoto do Github, chamado *teste*:
+```bash
+git clone http://github.com/seulogin/teste
+```
+* Entrar no diretório *teste*:
+```bash
+cd teste
+```
+* Listar os ramos existentes:
+```bash
+git branch
+```
+* Criar um ramo chamado *new_modification*:
+```bash
+git branch new_modification
+```
+* Listar se o novo ramo foi criado:
+```bash
+git branch
+```
+* Mudar para o ramo *new_modification*:
+```bash
+git checkout new_modification
+```
+* Modificar o arquivo *README.md*:
+```bash
+nano README.md
+```
+* Adicionar um texto qualquer, salvar e sair do editor de texto
+* Verificar o estado do repositório:
+```bash  
+git status
+```   
+* Adicionar o arquivo modificado ao repositório:
+```bash
+git add README.md
+```
+* Confirmar a alteração:
+```bash
+git commit -m "Adicionado texto ao README.md"
+```
+* Verificar o estado do repositório:
+```bash
+git status
+```
+* Enviar o ramo *new_modification* para o repositório remoto:
+```bash
+git push --set-upstream origin new_modification
+```
+* Como listar as URLs do repositório remoto:
+```bash
+git remote -v
+```
+* Verificar o estado do repositório:
+```bash
+git status
+```
+
+Depois de enviar o ramo *new_modification* para o repositório remoto, é possível visualizar o ramo no endereço do repositório remoto. Abra seu navegador e acesse o endereço do repositório remoto, por exemplo:
+```
+https://github.com/seulogin/teste/tree/novo_ramo
+```
+
+Onde:
+* *seulogin* é o seu login
+* *teste* é o nome do projeto
+* *novo_ramo* é o nome do ramo criado
+
+## Considerações Finais
+* Neste tutorial, foram apresentados conceitos básicos sobre o git, como instalação, configuração, criação de repositórios, alterações locais e criação de ramos.
 
 ## Referências
 
