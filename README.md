@@ -34,7 +34,7 @@ A Equipe de voluntários elaborou uma formação para desenvolvedores de softwar
 flowchart LR
   Intro("Intro (1h)") --  "DB + DF"  --> IntroBack
   Intro -- "DB + DF + GP" --> Markdown
-  IntroBack("IntroBack (2h) - ") -- "DB + DF + GP" --> VSCode 
+  Intro -- "DB + DF + GP" --> VSCode
   VSCode("VSCode (2h)") -- "DB + DF" --> Git("Git (2h)")
   VSCode -- "DB + DF + GP" --> Github("Github (2h)")
   VSCode -- "DB + DF" --> Docker("Docker (2h)")
