@@ -48,10 +48,12 @@ flowchart LR
 ```
 
 ## Desenvolvedores em Formação
-* [gabriels404](em_formacao/gabriels404/README.md) - Formação Backend - desde 21/03/24
-* [guinaka](em_formacao/guinaka/README.md) - Formação Backend - desde 04/04/24
-* [mariaizabelg](em_formacao/mariaizabelg/README.md) - Formação Gerências de Projetos - desde 11/04/24
-* [AlexandreDantasz](em_formacao/AlexandreDantasz/README.md) - Formação ? - desde 18/04/24
+Desenvolvedor  | Formação  | Data de Início |
+---------------| :------:  | :------:       |
+[gabriels404](em_formacao/gabriels404/README.md) | Backend | 21/03/24
+[guinaka](em_formacao/guinaka/README.md) | Backend | 04/04/24
+[mariaizabelg](em_formacao/mariaizabelg/README.md) | Gerências de Projetos | 11/04/24
+[AlexandreDantasz](em_formacao/AlexandreDantasz/README.md) | ? | 18/04/24
 
 ## Orientadores 🚧
 * [marceloakira](orientadores/marceloakira/README.md)
