@@ -51,3 +51,4 @@ flowchart LR
 * [gabriels404](gabriels404/README.md) - Formação Backend - desde 21/03/24
 * [guinaka](guinaka/README.md) - Formação Backend - desde 04/04/24
 * [mariaizabelg](mariaizabelg/README.md) - Formação Gerências de Projetos - desde 11/04/24
+* [AlexandreDantasz](AlexandreDantasz/README.md) - Formação ? - desde 18/04/24
