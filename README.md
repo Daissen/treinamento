@@ -58,3 +58,11 @@ Desenvolvedor  | Formação  | Data de Início |
 ## Orientadores 🚧
 * [marceloakira](orientadores/marceloakira/README.md)
 * [lucamoreira](orientadores/lucamoreira/README.md)
+
+
+## Cursos de Outras Plataformas 🚧
+Nome                                                                                           | Formação           | Plataforma |
+-----------------------------------------------------------------------------------------------| :----------------: | :--------: |
+[Gestão de Projetos](https://veduca.org/courses/gestao-de-projetos/?ref=artigo)                | Gestão de Projetos | VEduca     |
+[Introdução ao Javascript](https://www.sololearn.com/pt/learn/courses/javascript-introduction) | Frontend/Backend   | Sololearn  |
+[Javascript intermediário](https://www.sololearn.com/pt/learn/courses/javascript-intermediate) | Frontend/Backend   | Sololearn  |
