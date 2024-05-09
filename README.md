@@ -9,7 +9,7 @@ A Equipe de voluntários elaborou uma formação para desenvolvedores de softwar
 ### Conhecimento Comum
   * [Intro: Informações Gerais](modulos/introducao/README.md)
   * [Markdown: Sintaxe de Documentação](modulos/markdown/README.md) 🚧
-  * [VS Code: Ambiente de Programação](modulos/vscode/README.md) 🚧
+  * [VS Code: Ambiente de Programação](modulos/vscode/README.md)
   * [Git: Versionamento de Código](modulos/git/README.md)
   * [Github: Ambiente de Colaboração](modulos/github/README.md) 🚧
   * [Docker: Distribuição de Software](modulos/docker/README.md) 🚧
