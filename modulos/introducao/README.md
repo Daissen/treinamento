@@ -9,7 +9,7 @@ Depois do término da reunião você deverá saber:
 * Os líderes das equipes de desenvolvimento: Backend, Frontend e Gerência de Projetos.
 
 ## Como se tornar um voluntário
-* Entre em contato conosco através do email: ...
+* Entre em contato conosco através do email: dev@daissen.org.br
 * Aguarde o retorno da equipe de voluntários, geralmente em até 24 horas.
 * Aguarde o período de recrutamento e seleção, que geralmente ocorre semestralmente.
 
