@@ -25,8 +25,14 @@ A Equipe de voluntários elaborou uma formação para desenvolvedores de softwar
   * [React: Framework para Interface Web](modulos/react/README.md) 🚧
   * [ReactNative: Framework para Interface Móvel](modulos/react_native/README.md)
  
-### Gerência de Projetos
+### Gerência de Projetos 🚧
   * [GithubProjects: Gerência de Projetos no Github](modulos/github_projects/README.md) 🚧
+
+### Designer Digital 🚧
+  * [Figma: Ferramenta de Design Digital](modulos/figma/README.md) 🚧
+
+## Arquiteto de Dados 🚧
+  * ...
 
 ## Sugestão de Fluxo com Estimativa de Horas
 
