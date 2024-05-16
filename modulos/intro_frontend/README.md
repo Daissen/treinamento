@@ -7,7 +7,7 @@
 
 ## Conteúdos
 * [Parte I - Instalação Base - Vídeo da Oficina 04/04/2024](https://drive.google.com/file/d/15nNZjPOwE-Ak8SkZ0xo5DPtWqzhLjZ4I/view?usp=sharing)
-* [Parte II - Instalação de bibliotecas e código-fonte - Vídeo da Oficina 11/04/2024]() :construction:
+* [Parte II - Instalação de bibliotecas e código-fonte - Vídeo da Oficina 11/04/2024](https://drive.google.com/file/d/1ta5JAcdl3t1QxFq9MqEoLtYUyPY7N7M8/view?usp=sharing)
 * Manuais de instalação específicos para cada sistema operacional :construction:
 
 ## Avaliação
