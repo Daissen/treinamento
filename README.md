@@ -16,7 +16,7 @@ A Equipe de voluntários elaborou uma formação para desenvolvedores de softwar
 
 ### Desenvolvedor Backend
   * [IntroBack: Instalação do Backend](modulos/instalacao_do_backend/README.md)
-  * [NodeJS: Programação Javascript no Servidor](modulos/nodejs/README.md) 🚧 
+  * [NodeJS: Programação Javascript no Servidor](modulos/nodejs/README.md)
   * [Express: Framework para Aplicações Backend](modulos/express/README.md) 🚧
 
 ### Desenvolvedor Frontend
