@@ -17,11 +17,11 @@ A Equipe de voluntários elaborou uma formação para desenvolvedores de softwar
 ### Desenvolvedor Backend
   * [IntroBack: Instalação do Backend](modulos/instalacao_do_backend/README.md)
   * [NodeJS: Programação Javascript no Servidor](modulos/nodejs/README.md)
-  * [Express: Framework para Aplicações Backend](modulos/express/README.md) 🚧
+  * [Express: Framework para Aplicações Backend](modulos/express/README.md)
 
 ### Desenvolvedor Frontend
   * [IntroFront: Instalação do Frontend](modulos/intro_frontend/README.md)
-  * [IntroJSWeb: Javascript no Navegador](modulos/intro_js_web/README.md) 🚧
+  * [IntroJSWeb: Javascript no Navegador](modulos/intro_js_web/README.md)
   * [React: Framework para Interface Web](modulos/react/README.md) 🚧
   * [ReactNative: Framework para Interface Móvel](modulos/react_native/README.md)
  
