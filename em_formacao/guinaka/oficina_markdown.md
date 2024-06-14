@@ -2,7 +2,7 @@
 ## Primeira reunião
 ### Primeira anotação
 ```python
-    print('Olá!')
+    print ('Olá!')
 ```
 ---
 1. Guilherme
@@ -10,3 +10,4 @@
 3. Inuzuka 
 4. Nakaharada
    
+
