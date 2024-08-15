@@ -6,7 +6,7 @@
 * Saber instalar e configurar pacotes NodeJS com Yarn e NPM.
 
 ## Conteúdos
-* [Oficina do dia 09/05/24](https://drive.google.com/file/d/1_cdCx2lHOFIpXAkuA-kpb-3uFsGC07Fq/view?usp=sharing)
+* [Oficina do dia 09/05/24 - Tema: Into ao NodeJS](https://drive.google.com/file/d/1_cdCx2lHOFIpXAkuA-kpb-3uFsGC07Fq/view?usp=sharing)
 
 ## Leituras Recomendadas (auto-estudo)
 * Tutorial W3Schools do NodeJS: [https://www.w3schools.com/nodejs/](https://www.w3schools.com/nodejs/)
