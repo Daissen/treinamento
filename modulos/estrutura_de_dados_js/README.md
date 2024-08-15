@@ -1,4 +1,4 @@
-# Estrutura de Dados em Java
+# Estrutura de Dados em Javascript
 
 ## Objetivo
 * Como criar e manipular estruturas de dados em Javascript. 
