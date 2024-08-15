@@ -62,8 +62,37 @@ Desenvolvedor  | Formação  | Data de Início |
 ---------------| :------:  | :------:       |
 [gabriels404](em_formacao/gabriels404/README.md) | Backend | 21/03/24
 [guinaka](em_formacao/guinaka/README.md) | Backend | 04/04/24
-[mariaizabelg](em_formacao/mariaizabelg/README.md) | Gerências de Projetos | 11/04/24
 [AlexandreDantasz](em_formacao/AlexandreDantasz/README.md) | ? | 18/04/24
+[Vitinhows](em_formacao/Vitinhows/README.md) | ? | ?
+[Maria Luiza](em_formacao/marialuiza/README.md) | ? | ?
+
+## Status Atual
+
+| Módulo | gabriels404 | guinaka | AlexandreDantasz | Vitinhows | Maria Luiza |
+| ------ | :---------: | :-----: | :--------------: | :--------------: | :--------------: | 
+| Intro  |   ✅ |  ✅ |   ✅ |   ✅ |   ✅ |  
+| Markdown  |   ✅ |  ✅ |   ✅ |   ❌ |   ✅ |  
+| VSCode  |   ✅ |  ✅ |   ✅ |   ❌ |   ✅ | 
+| Git  |   ✅ |  ✅ |   ✅ |   ✅ |   ✅ |
+| IntroBack  |   ✅ |  ✅ |   ✅ |   ✅ |   ✅ |
+| NodeJS  |   ✅ |  ✅ |   ✅ |   ✅ |   ✅ |
+| Express  |   ✅ |  ✅ |   ✅ |   ❌ |   ✅ |
+| Orientação a Objetos em Javascript  |   ✅ |  ✅ |   ✅ |   ❌ |   ✅ |
+| Mongoose  |   ✅ |  ✅ |   ❌ |   ❌ |   ✅ |
+| Estrutura de Dados em Javascript  |   ✅ |  ✅ |   ✅ |   ❌ |   ✅ |
+| IntroFront  |   ✅ |  ✅ |   ✅ |   ✅ |   ✅ |
+| IntroJSWeb  |   ✅ |  ✅ |   ✅ |   ✅ |   ✅ |
+| Document Object Model (DOM)  |   ✅ |  ✅ |   ✅ |   ✅ |   ✅ |
+| React Native |   ✅ |  ✅ |   ✅ |   ✅ |   ✅ |
+
+* Atualizado: Vitinhows e AlexandreDantasz
+* Falta atualizar: Maria Luiza, guinaka e gabriels404
+
+## Ex-desenvolvedores
+
+Desenvolvedor  | Formação  | Data de Início | Motivo da Saída
+---------------| :------:  | :------:       | :-------------:
+[mariaizabelg](em_formacao/mariaizabelg/README.md) | Gerências de Projetos | 11/04/24 | Saiu por motivos pessoais
 
 ## Orientadores 🚧
 * [marceloakira](orientadores/marceloakira/README.md)
