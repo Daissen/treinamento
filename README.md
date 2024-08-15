@@ -25,6 +25,7 @@ A Equipe de voluntários elaborou uma formação para desenvolvedores de softwar
 ### Desenvolvedor Frontend
   * [IntroFront: Instalação do Frontend](modulos/intro_frontend/README.md)
   * [IntroJSWeb: Javascript no Navegador](modulos/intro_js_web/README.md)
+  * [Document Object Model (DOM)](modulos/dom/README.md)
   * [React: Framework para Interface Web](modulos/react/README.md) 🚧
   * [ReactNative: Framework para Interface Móvel](modulos/react_native/README.md)
  
