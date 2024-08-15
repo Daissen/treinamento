@@ -20,6 +20,7 @@ A Equipe de voluntários elaborou uma formação para desenvolvedores de softwar
   * [Express: Framework para Aplicações Backend](modulos/express/README.md)
   * [Orientação a Objetos em Javascript](modulos/oo_js/README.md)
   * [Mongoose: ODM para MongoDB](modulos/mongoose/README.md)
+  * [Estrutura de Dados em Javascript](modulos/estrutura_de_dados_js/README.md)
 
 ### Desenvolvedor Frontend
   * [IntroFront: Instalação do Frontend](modulos/intro_frontend/README.md)
