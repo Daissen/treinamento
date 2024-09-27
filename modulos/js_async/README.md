@@ -6,7 +6,7 @@
 
 
 ## Conteúdos
-* [Vídeo da Oficina 26/09/2024](https://drive.google.com/drive/folders/1yADGNqAkMp1nopkRyheqjpftXuRr1boh)
+* [Vídeo da Oficina 26/09/2024](https://drive.google.com/file/d/1TGWRrbLu6dW3eRMA6SFkda2mOIgOObZm/view?usp=sharing)
 * [Link para o tutorial](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous)
 
 ## Avaliação
