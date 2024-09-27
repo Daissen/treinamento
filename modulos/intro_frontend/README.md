@@ -9,7 +9,7 @@
 * [Parte I - Instalação Base - Vídeo da Oficina 04/04/2024](https://drive.google.com/file/d/15nNZjPOwE-Ak8SkZ0xo5DPtWqzhLjZ4I/view?usp=sharing)
 * [Parte II - Instalação de bibliotecas e código-fonte - Vídeo da Oficina 11/04/2024](https://drive.google.com/file/d/1ta5JAcdl3t1QxFq9MqEoLtYUyPY7N7M8/view?usp=sharing)
 * Oficinas de instalação específicos para cada sistema operacional:
-  * [Instalação do App no - Vídeo da Oficina 12/09/2024](Oficina-2024-09-12-Instalação-Do-App-MacOS)
+  * [Instalação do App no - Vídeo da Oficina 12/09/2024](https://drive.google.com/file/d/1qGtF_xobhHMPlxGXOoOaXmQEqEQIkn6Q/view?usp=sharing)
 
 ## Avaliação
 * Compartilhe um documento aqui na sua pasta pessoal :construction: deste repositório com um mini-tutorial de instalação do frontend em seu sistema operacional. Seguem instruções importantes:
